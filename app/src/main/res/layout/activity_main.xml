@@ -139,7 +139,7 @@
         android:layout_marginEnd="28dp"
         android:layout_marginBottom="23dp"
         android:backgroundTint="#949FA3"
-        android:text="÷"
+        android:text="/"
         android:textColor="@color/black"
         app:layout_constraintBottom_toTopOf="@+id/button28"
         app:layout_constraintEnd_toEndOf="parent" />
@@ -190,7 +190,7 @@
         android:layout_marginEnd="28dp"
         android:layout_marginBottom="23dp"
         android:backgroundTint="#949FA3"
-        android:text="×"
+        android:text="*"
         android:textColor="@color/black"
         app:layout_constraintBottom_toTopOf="@+id/button25"
         app:layout_constraintEnd_toEndOf="parent" />
