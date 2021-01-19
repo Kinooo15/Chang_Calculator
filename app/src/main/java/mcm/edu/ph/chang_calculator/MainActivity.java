@@ -31,6 +31,5 @@ public class MainActivity extends AppCompatActivity {
         btnClear = findViewById(R.id.btnClear);
         btnEqual = findViewById(R.id.btnEqual);
         btnPeriod = findViewById(R.id.btnPeriod);
-
     }
 }
